@@ -69,6 +69,7 @@
 - **[PixGT](https://www.pixgt.cn)** — 白底图直接生成带货短视频,与商品套图同一套工作流。
 - **[即梦 AI](https://jimeng.jianying.com/)** — 字节旗下,图生视频能力强,与抖音生态衔接顺畅。
 - **[Vizgo](https://vizgo.ai/)** — AI 视频生成工具,支持商品素材成片。
+- **[Orkas](https://orkas.ai/agents/video-studio/?source=gh_pixgt)** — VideoStudio 将商品素材与简报编排为带字幕的视频；它运行于开源、本地优先的 Orkas 桌面 AI 团队，由 Commander 协调，模型服务可能另行计费。
 
 ## 基础图片处理
 

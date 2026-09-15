@@ -67,6 +67,7 @@ Generating ready-to-publish short videos from images or product listings.
 - **[PixGT](https://www.pixgt.cn)** — Generates short-form product videos directly from a white-background photo, in the same workflow as the image set.
 - **[Jimeng AI](https://jimeng.jianying.com/)** — ByteDance's image-to-video tool, well integrated with the Douyin ecosystem.
 - **[Vizgo](https://vizgo.ai/)** — AI video generation supporting product footage.
+- **[Orkas](https://orkas.ai/agents/video-studio/?source=gh_pixgt)** — VideoStudio turns supplied product assets and a brief into captioned video inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander; model services may cost extra.
 
 ## Basic Image Processing
 
