@@ -69,6 +69,7 @@
 - **[PixGT](https://www.pixgt.cn)** — 白底图直接生成带货短视频,与商品套图同一套工作流。
 - **[即梦 AI](https://jimeng.jianying.com/)** — 字节旗下,图生视频能力强,与抖音生态衔接顺畅。
 - **[Vizgo](https://vizgo.ai/)** — AI 视频生成工具,支持商品素材成片。
+- **[Wizmade](https://wizmade.si/)** — 多模型 AI 视频与生图平台，集成 Kling、Veo、Seedance 与特效成片。
 
 ## 基础图片处理
 
