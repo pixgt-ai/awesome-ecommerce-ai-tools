@@ -100,6 +100,7 @@ Not e-commerce specific, but higher ceilings for teams comfortable with promptin
 - **[ERNIE-ViLG](https://yige.baidu.com/)** — Baidu's image model, well adapted to Chinese-market scenarios.
 - **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** — Open source, self-hostable and deeply customisable. Requires engineering capacity.
 - **[Pixonara](https://pixonara.com)** — Browser-based AI image and video generation with a browsable prompt library. General-purpose creation rather than an e-commerce-specific workflow.
+- **[Clout](https://tryclout.ai/)** — Browser-based AI character, image, and video creation for brand and social content concepts; not a dedicated product-photo workflow.
 
 ---
 
