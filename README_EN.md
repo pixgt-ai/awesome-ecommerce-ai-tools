@@ -51,6 +51,7 @@ Placing a cut-out product into a realistic setting — the most mature capabilit
 - **[Mokker AI](https://mokker.ai/)** — Product-photography-grade scene generation with a Western aesthetic.
 - **[Flair AI](https://flair.ai/)** — Design-led, supports custom composition and prop placement. Suited to brands with specific art direction.
 - **[Claid.ai](https://claid.ai/)** — Image enhancement and scene generation API aimed at marketplaces and high-volume sellers.
+- **[EmptyRoom AI](https://emptyroomai.com)** — Stages empty room photos into furnished scenes in multiple styles for listings and furniture displays; per-room billing with free restyles.
 
 ## Virtual Try-On & Apparel
 
