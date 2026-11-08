@@ -40,6 +40,7 @@ Turn a white-background or raw shot into platform-compliant hero and detail imag
 - **[PixGT](https://www.pixgt.cn)** — An AI visual tool for cross-border e-commerce sellers that turns one white-background product photo into a full set of product images (hero / detail page / lifestyle) and short-form product videos. Free credits for new users.
 - **[Meitu Design Studio](https://www.designkit.com/)** — Meitu's e-commerce design suite: product images, posters and cutout in one place. Strong Chinese-market template library.
 - **[Gaoding](https://www.gaoding.com/)** — Template-driven e-commerce visual tool with a large library of hero and detail-page layouts.
+- **[Dondo](https://www.dondo.com/)** — Generates studio and lifestyle product-photo drafts from existing images alongside product SEO and AI-search readiness checks. Merchants review drafts before publishing or exporting; available options vary by platform.
 
 ## Scene Generation & Background Replacement
 
