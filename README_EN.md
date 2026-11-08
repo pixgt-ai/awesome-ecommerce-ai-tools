@@ -67,6 +67,7 @@ Generating ready-to-publish short videos from images or product listings.
 - **[PixGT](https://www.pixgt.cn)** — Generates short-form product videos directly from a white-background photo, in the same workflow as the image set.
 - **[Jimeng AI](https://jimeng.jianying.com/)** — ByteDance's image-to-video tool, well integrated with the Douyin ecosystem.
 - **[Vizgo](https://vizgo.ai/)** — AI video generation supporting product footage.
+- **[makeaicreator](https://makeaicreator.com/)** — Designs a consistent AI influencer from a plain-language brief, then generates face-locked photos, voiceover clips, and product-in-hand scenes for listings and paid social.
 
 ## Basic Image Processing
 
