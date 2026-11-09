@@ -72,6 +72,7 @@
 - **[即梦 AI](https://jimeng.jianying.com/)** — 字节旗下,图生视频能力强,与抖音生态衔接顺畅。
 - **[Vizgo](https://vizgo.ai/)** — AI 视频生成工具,支持商品素材成片。
 - **[Wizmade](https://wizmade.si/)** — 多模型 AI 视频与生图平台，集成 Kling、Veo、Seedance 与特效成片。
+- **[AdMakeAI](https://admakeai.com)** — 面向 Facebook、Instagram 和 TikTok 投放的 AI 广告素材工具，一张商品图生成 Meta 各版位尺寸的广告图和 AI 数字人出镜的 UGC 风格竖版视频广告，也能查看竞品在 Meta 广告库里持续投放的广告，用自己的商品复刻同类形式。按点数计费，视频广告需付费套餐。
 
 ## 基础图片处理
 
