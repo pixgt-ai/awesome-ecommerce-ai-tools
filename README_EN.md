@@ -69,6 +69,7 @@ Generating ready-to-publish short videos from images or product listings.
 - **[PixGT](https://www.pixgt.cn)** — Generates short-form product videos directly from a white-background photo, in the same workflow as the image set.
 - **[Jimeng AI](https://jimeng.jianying.com/)** — ByteDance's image-to-video tool, well integrated with the Douyin ecosystem.
 - **[Vizgo](https://vizgo.ai/)** — AI video generation supporting product footage.
+- **[AdMakeAI](https://admakeai.com)** — AI ad creative for Facebook, Instagram and TikTok advertisers: turns a product photo into ad images in every Meta placement size and UGC-style vertical video ads with AI avatars, and shows the ads competitors keep running in the Meta Ad Library so you can remake a format with your own product. Credit-based billing; video ads need a paid plan.
 
 ## Basic Image Processing
 
