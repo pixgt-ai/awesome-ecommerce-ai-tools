@@ -54,6 +54,8 @@ Placing a cut-out product into a realistic setting — the most mature capabilit
 - **[Flair AI](https://flair.ai/)** — Design-led, supports custom composition and prop placement. Suited to brands with specific art direction.
 - **[Claid.ai](https://claid.ai/)** — Image enhancement and scene generation API aimed at marketplaces and high-volume sellers.
 
+- **[Vidney](https://vidney.ai/photo-effects/ai-product-photo)**: Generates product images from one uploaded photo with five studio and lifestyle scene presets; fine label text and logos need review before publication.
+
 ## Virtual Try-On & Apparel
 
 Replacing live model shoots with AI-generated models.
