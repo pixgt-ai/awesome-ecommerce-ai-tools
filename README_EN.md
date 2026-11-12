@@ -80,6 +80,7 @@ Cutout, watermark removal, upscaling — usually a preprocessing step.
 - **[PicWish](https://picwish.com/)** — Cutout, restoration and upscaling with a reasonably generous free tier.
 - **[remove.bg](https://www.remove.bg/)** — Long-standing automatic background removal with a stable API, commonly embedded in pipelines.
 - **[Upscayl](https://github.com/upscayl/upscayl)** — Open-source image upscaler that runs locally. Free.
+- **[TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover)** — Free cutout tool that runs fully in the browser: photos never upload, no account needed, transparent PNG output. Fits privacy-sensitive preprocessing such as home-shot listings.
 
 ## General Design Platforms
 

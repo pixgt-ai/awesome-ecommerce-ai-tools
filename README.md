@@ -84,6 +84,7 @@
 - **[佐糖 PicWish](https://picwish.cn/)** — 抠图、修复、放大,免费额度较友好。
 - **[remove.bg](https://www.remove.bg/)** — 老牌自动抠图工具,API 稳定,常被集成进工作流。
 - **[Upscayl](https://github.com/upscayl/upscayl)** — 开源图片无损放大工具,本地运行,免费。
+- **[TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover)** — 浏览器内运行的免费抠图工具,照片不上传服务器,无账号要求,输出透明 PNG,适合家居实拍等隐私敏感的商品图预处理。
 
 ## 综合设计平台
 
