@@ -76,6 +76,7 @@
 - **[Vizgo](https://vizgo.ai/)** — AI 视频生成工具,支持商品素材成片。
 - **[Wizmade](https://wizmade.si/)** — 多模型 AI 视频与生图平台，集成 Kling、Veo、Seedance 与特效成片。
 - **[AdMakeAI](https://admakeai.com)** — 面向 Facebook、Instagram 和 TikTok 投放的 AI 广告素材工具，一张商品图生成 Meta 各版位尺寸的广告图和 AI 数字人出镜的 UGC 风格竖版视频广告，也能查看竞品在 Meta 广告库里持续投放的广告，用自己的商品复刻同类形式。按点数计费，视频广告需付费套餐。
+- **[Reelpeat 帧会卖](https://www.reelpeat.com/)** — 面向电商卖家的商品视频工具，用商品链接或图片制作带货及广告短视频，生成前可审阅脚本和分镜，提供试用积分，后续按用量计费。
 
 ## 基础图片处理
 
