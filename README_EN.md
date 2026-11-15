@@ -73,6 +73,7 @@ Generating ready-to-publish short videos from images or product listings.
 - **[Vizgo](https://vizgo.ai/)** — AI video generation supporting product footage.
 - **[AdMakeAI](https://admakeai.com)** — AI ad creative for Facebook, Instagram and TikTok advertisers: turns a product photo into ad images in every Meta placement size and UGC-style vertical video ads with AI avatars, and shows the ads competitors keep running in the Meta Ad Library so you can remake a format with your own product. Credit-based billing; video ads need a paid plan.
 - **[Reelpeat](https://www.reelpeat.com/)** — Creates short product videos and ads from product links or images, with script and storyboard review before generation. Trial credits are available; further usage is paid.
+- **[RefVid](https://refvid.com)** — Upload reference images of a product or character once, then generate short videos that keep that subject consistent in every shot. Credit-based billing.
 
 ## Basic Image Processing
 
