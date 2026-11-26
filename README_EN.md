@@ -63,6 +63,7 @@ Replacing live model shoots with AI-generated models.
 - **[PixGT](https://www.pixgt.cn)** — Covers garment try-on, model swapping, accessory wear and pose variation, so one product can be shot across different models, poses and styling in batch.
 - **[WeShop](https://www.weshop.com/)** — Dedicated AI model and virtual try-on for apparel sellers.
 - **[Pic Copilot](https://www.piccopilot.com/)** — From Alibaba International, product and model imagery for cross-border sellers.
+- **[Jewelry AI: Product Photos](https://elanorya.com/apps/jewelry-ai)** — Android app for small jewelry sellers: places a ring, necklace, earring or bracelet from one phone photo onto a model, and also removes backgrounds and upscales. Generated results can alter small details such as stone count, so each one needs checking against the piece.
 
 ## Short-form Product Video
 

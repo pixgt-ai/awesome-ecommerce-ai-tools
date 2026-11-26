@@ -66,6 +66,7 @@
 - **[WeShop 唯象](https://www.weshop.com/)** — 专注服装电商的 AI 模特与试穿,国内服装卖家使用较广。
 - **[绘蛙 AI](https://www.huiwa.cn/)** — 阿里生态下的电商营销素材工具,含 AI 模特能力。
 - **[Pic Copilot](https://www.piccopilot.com/)** — 阿里国际旗下,面向跨境卖家的商品图与模特图工具。
+- **[Jewelry AI: Product Photos](https://elanorya.com/apps/jewelry-ai)** — 面向小型珠宝卖家的 Android 应用:用一张手机拍摄的戒指、项链、耳环或手链照片生成模特佩戴图,也支持去背景和放大。生成结果可能改变宝石数量等细节,需与实物逐一核对。
 
 ## 带货短视频生成
 
